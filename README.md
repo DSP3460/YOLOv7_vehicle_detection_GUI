@@ -1,0 +1,2 @@
+# YOLOv7_vehicle_detection_GUI
+基于改进YOLOv7算法的车辆目标检测系统。
